@@ -22,7 +22,7 @@ Requirements :
 How to use : 
 
 ```bash 
-gcc -Wall readelfbutmine.c -o readelfbutmine
+gcc readelfbutmine.c -o readelfbutmine
 ./readelfbutmine <filename> 
 ```
 
