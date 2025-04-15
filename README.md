@@ -13,7 +13,7 @@ Si vous voulez plus d'infos n'hésitez pas à creuser la documentation en annexe
 
 J'ai pas affiché toutes les infos que readelf renvoie, mais je pense avoir les principales outputs.
 
-Prerequirements : 
+Requirements : 
 
 - 64 bits exec. 32 might be implemented later 
 
