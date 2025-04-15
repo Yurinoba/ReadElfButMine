@@ -1,4 +1,4 @@
-# ReadELfButMine
+# ReadElfButMine
 
 Un week-end j'ai voulu creuser la structure ELF du coup j'ai créer ça et je me suis dis que ça pouvait être bon support d'apprentissage pour ceux qui ne 
 veulent pas lire la doc mais plutôt rentrer dans la structure avec du code.
