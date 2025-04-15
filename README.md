@@ -1,17 +1,19 @@
 # ReadElfButMine
 
-Un week-end j'ai voulu creuser la structure ELF du coup j'ai créer ça et je me suis dis que ça pouvait être bon support d'apprentissage pour ceux qui ne 
-veulent pas lire la doc mais plutôt rentrer dans la structure avec du code.
+Un week-end j'ai voulu creuser la structure ELF du coup j'ai créé ça et je me suis dis que ça pouvait être un bon support d'apprentissage pour ceux qui ne 
+veulent pas lire la doc mais plutôt rentrer dans la structure avec du code directement.
 
 Petit projet perso pour comprendre un peu mieux la structure ELF et notamment les headers.
 Attention l'outil est HYPER verbeux, il sert surtout de support pour aborder la structure ELF sans se reposer uniquement sur la doc.
 
-Si vous voulez plus d'info sur certains paramètre n'hésitez pas à checker le code, j'ai fais le plus simple/clair possible avec des commentaires
+Si vous voulez plus d'infos sur certains paramètre n'hésitez pas à checker le code, j'ai fais le plus simple/clair possible avec des commentaires
 sur des paramètres un peu obscures. 
 
-Si vous voulez plus d'infos n'hésitez pas à creuser la documentation en annexe. 
+Si vous voulez plus d'infos n'hésitez pas à creuser la documentation en annexe/upgrade l'outil. 
 
 J'ai pas affiché toutes les infos que readelf renvoie, mais je pense avoir les principales outputs.
+
+Cet outil est aussi pratique comme base pour aller faire des choses plus intéressantes dans l'analyse de binaire ELF, je publierai peut-être un autre projet en public en lien avec ça.
 
 Requirements : 
 
