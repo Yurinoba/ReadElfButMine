@@ -19,12 +19,16 @@ Prerequirements :
 
 How to use : 
 
-gcc -Wall readelfbutmine.c -o readelfbutmine
-./readelfbutmine <filename>
+```bash 
+gcc -Wall readelfbutmine.c -o readelfbutmine ```
+./readelfbutmine <filename> 
+```
 
 How to compare (just trust my output don't worry...) : 
 
-readelf -a <filename>
+```bash 
+readelf -a <filename> 
+```
 
 Tests : 
 
@@ -33,7 +37,7 @@ faire un nouvel outil propre et sans aucun beug :)
 
 Ressources : 
 
-- File for elf header strcuture  for me : /usr/include/elf.h
+- File for elf header structure  for me : /usr/include/elf.h
 - page wikipedia : https://en.wikipedia.org/wiki/Executable_and_Linkable_Format
 - More EFL info : https://docs.oracle.com/cd/E19683-01/816-1386/chapter6-43405/index.html
 - ELF header video : https://www.youtube.com/watch?v=5MJW71jftQU
