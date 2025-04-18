@@ -26,16 +26,19 @@ gcc readelfbutmine.c -o readelfbutmine
 ./readelfbutmine <filename> 
 ```
 
+If you wanna try right now : 
+```bash 
+./readelfbutmine examples/test
+```
+I suggest you to real the ELF Header (at the top of the output), one Program Header and one Section Header. It is quite interesting.
+
 How to compare (just trust my output don't worry...) : 
 
 ```bash 
 readelf -a <filename> 
 ```
 
-Tests : 
-
-J'ai laissé les quelques fichiers de tests très basique, je ne sais pas si ça marche pour tous les exec 64 bits mais l'objectif est surtout de s'amuser plutôt que de
-faire un nouvel outil propre et sans aucun beug :)
+Je ne sais pas si ça marche pour tous les exec 64 bits mais l'objectif est surtout de s'amuser tout en apprennant de nouvelles choses :)
 
 Ressources : 
 
