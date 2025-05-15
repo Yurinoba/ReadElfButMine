@@ -30,7 +30,7 @@ If you wanna try right now :
 ```bash 
 ./readelfbutmine examples/test
 ```
-I suggest you to real the ELF Header (at the top of the output), one Program Header and one Section Header. It is quite interesting.
+I suggest you to read the ELF Header (at the top of the output), one Program Header and one Section Header. It is quite interesting.
 
 How to compare (just trust my output don't worry...) : 
 
